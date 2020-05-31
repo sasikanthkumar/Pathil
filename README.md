@@ -1,6 +1,6 @@
 <a href="https://sasikanthkumar.github.io/Pathil/" target="_blank">
 <p  align="center">
-  <img src="https://sasikanthkumar.github.io/Pathil/images/pathil_logo.png">
+  <img src="https://sasikanthkumar.github.io/Pathil/images/pathil_logo_readme.png">
 </p>
 </a>
 
