@@ -1,6 +1,6 @@
 <a href="https://sasikanthkumar.github.io/Pathil/" target="_blank">
-<p style="background-color: red;" align="center">
-  <img style="background-color: red;" src="https://sasikanthkumar.github.io/Pathil/images/pathil_logo.png">
+<p  align="center">
+  <img  src="https://sasikanthkumar.github.io/Pathil/images/pathil_logo.png">
 </p>
 </a>
 
